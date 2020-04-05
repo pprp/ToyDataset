@@ -34,6 +34,8 @@ StanfordDog数据集：
 
 - 描述：120个种类的狗狗，属于细粒度分类问题，但是由于图片中并不是严格只有狗狗，而含有一定的其他物体或者背景，标注中annoation文件也提供了类似VOC格式的标注，用于标注狗狗在图片中的实际位置，因此也可以用于作为目标检测数据集。
 - 大小：735MB
+- 链接：https://pan.baidu.com/s/1eYc0hi1XVpPNCw6PnEhYBA 
+  提取码：zj2k
 - 官网： http://vision.stanford.edu/aditya86/ImageNetDogs/ 
 - 示例:
 
